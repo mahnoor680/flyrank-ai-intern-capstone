@@ -42,3 +42,21 @@
 
 - Do not modify files unrelated to the requested task.
 
+
+
+## Workflow
+
+
+
+When making changes to this repository:
+
+
+
+1. Inspect the relevant files first.
+
+2. Make the smallest reasonable change.
+
+3. Review the result before committing.
+
+4. Use a clear Conventional Commit message.
+
