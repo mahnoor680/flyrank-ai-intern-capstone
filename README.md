@@ -2,10 +2,10 @@
 
 ## Overview
 
-This repository is part of the FlyRank AI Intern Capstone assignment.
-
-The project demonstrates a basic AI-assisted development workflow using Git,
-GitHub, and an AI coding assistant.
+This repository is the submission deliverable for the FlyRank AI Intern
+Capstone assignment: a clean, version-controlled project with clear
+documentation (`README.md`, `CLAUDE.md`) that demonstrates an AI-assisted
+Git and GitHub workflow—not a full application codebase.
 
 ## Goals
 
